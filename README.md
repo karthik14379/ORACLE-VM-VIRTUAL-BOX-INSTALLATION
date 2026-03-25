@@ -1,6 +1,6 @@
 # EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-# Name: KARTHICK V
-# Register Number: 212223040086
+# Name: KARTHIK P
+# Register Number: 212223045001
 
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
